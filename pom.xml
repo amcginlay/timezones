@@ -25,6 +25,7 @@
 
 	<modules>
 		<module>timezones-core</module>
+		<module>timezones-console</module>
 	</modules>
 
 	<dependencies>
